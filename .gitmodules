@@ -1,3 +1,0 @@
-[submodule "csv-schema"]
-	path = csv-schema
-	url = https://github.com/AllCLoudDevelopment/csv-schema.git
